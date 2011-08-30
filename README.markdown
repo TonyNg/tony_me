@@ -1,3 +1,7 @@
+# This is a website that I am designing on the fly.
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
