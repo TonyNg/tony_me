@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | <%= @title %></title>
+  </head>
+  <body>
+    <h1>About Me</h1>
+    <p>
+      <a href="www.facebook.com/tonynggg">I have a Facebook</a>.
+      <p>
+      I like baseball.
+      <p>
+      I am currently learning rails and hope to improve upon this website in the near future.
+    </p>
+  </body>
+</html>
