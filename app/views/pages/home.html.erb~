@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Ruby on Rails Tutorial Sample App | <%= @title %></title>
-  </head>
-  <body>
-    <h1>Sample App</h1>
+    <h1>Things I like:</h1>
     <p>
-      This is the home page for
-      <a href="www.facebook.com/tonynggg">Tony's</a>
-      fawesome web app.
+      These are my current interests and projects.
     </p>
-  </body>
-</html>
+<p>
+    <%= link_to "Baseball", '#', :class => "signup_button round" %><%= link_to "Github", '#', :class => "Github round" %><%= link_to "Photos", '#', :class => "Photos round" %>
+</p>
+
