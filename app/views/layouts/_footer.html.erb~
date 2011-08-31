@@ -1,0 +1,10 @@
+<footer>
+  <nav class="round">
+    <ul>
+      <li><%= link_to "Button", '#' %></li>
+      <li><%= link_to "Lost?", '#' %></li>
+      <li><a href="http://news.railstutorial.org/">Don't Click Here</a></li>
+      <li><a href="http://www.railstutorial.org/">Exit</a></li>
+    </ul>
+  </nav>
+</footer>>
